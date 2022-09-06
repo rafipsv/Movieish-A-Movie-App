@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566832762055",
+    "project_id": "movieish-a-movie-app",
+    "storage_bucket": "movieish-a-movie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566832762055:android:9b11845e2f1113d0db02e2",
+        "android_client_info": {
+          "package_name": "com.example.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566832762055-21piqb5a72cqqbmcp7fr8n75gqo69php.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZITLU6kfQNQ2_vxbcaqxW0U_gR01EMjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566832762055-21piqb5a72cqqbmcp7fr8n75gqo69php.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
